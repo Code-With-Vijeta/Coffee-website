@@ -552,6 +552,7 @@ section {
     margin: 1.5rem;
     padding: 0.5rem;
     font-size: 2rem;
+    width: 110px;
   }
   .header.search-form {
     width: 90%;
